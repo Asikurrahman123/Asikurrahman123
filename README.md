@@ -13,3 +13,4 @@ Skills: REACT / JS / HTML / CSS / PYTHON /
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Asikurrahman123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/asikur-rahman67//)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asikurrahman123&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/Asikurrahman123/github-readme-stats)
