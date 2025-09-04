@@ -8,7 +8,7 @@ My projects reflect my curiosity to combine software engineering principles with
 
 [![My Skills](https://skillicons.dev/icons?i=js,jquery,react,html,css,bootstrap,vue,anaconda,c,git,github,ai,py,)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asikurrahman123&layout=donut-vertical)](https://github.com/Asikurrahman123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asikurrahman123&layout=donut)](https://github.com/asikurrahman123/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asikurrahman123&layout=compact)
 
