@@ -10,13 +10,10 @@ My projects reflect my curiosity to combine software engineering principles with
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asikurrahman123&layout=pie)](https://github.com/asikurrahman123/github-readme-stats)
 
 <!-- https://denvercoder1-github-readme-stats.vercel.app  -->
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Asikurrahman123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/asikur-rahman67//) 
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asikurrahman123"/>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asikurrahman123&layout=compact)](https://github.com/asikurrahman123/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asikurrahman123)](https://github.com/asikurrahman123/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asikurrahman123&hide=contribs,prs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asikurrahman123)](https://github.com/asikurrahman123/github-readme-stats)
