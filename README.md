@@ -10,6 +10,9 @@ My projects reflect my curiosity to combine software engineering principles with
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asikurrahman123&layout=pie)](https://github.com/asikurrahman123/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asikurrahman123&layout=pie&cache_seconds=10)](https://github.com/asikurrahman123/github-readme-stats)
+
+
 <!-- https://denvercoder1-github-readme-stats.vercel.app  -->
 
 
