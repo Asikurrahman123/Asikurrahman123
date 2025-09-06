@@ -16,4 +16,4 @@ My projects reflect my curiosity to combine software engineering principles with
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asikurrahman123&hide=contribs,prs)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asikurrahman123&layout=compact)](https://github.com/asikurrahman123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asikurrahman123)](https://github.com/anuraghazra/github-readme-stats)
